@@ -1,21 +1,37 @@
-Projeto Login
+# Projeto Login
 
-Tela de login moderna com suporte a modo escuro (dark mode), desenvolvida para praticar estilização e interatividade.
+Acesse o projeto: https://rafaelssant021.github.io/projeto-login/
 
-Tecnologias utilizadas
+## Sobre
+Este projeto consiste em uma tela de login responsiva, desenvolvida com HTML e CSS.
+O objetivo foi praticar a criação de formulários, estilização de interfaces e adaptação de layout para diferentes dispositivos.
 
+---
+
+## Tecnologias utilizadas
 - HTML5
 - CSS3
-- JavaScript
 
-Objetivo
+---
 
-Desenvolver interface de autenticação com foco em design, usabilidade e alternância de tema.
+## Funcionalidades
+- Formulário de login com campos de e-mail e senha
+- Layout responsivo (mobile e desktop)
+- Estilização moderna com CSS
+- Interface simples e intuitiva
 
-O que aprendi
+---
 
-- Criação de layouts centralizados
-- Implementação de modo escuro
-- Manipulação de classes via JavaScript
-- Melhoria de UI/UX
+
+## O que eu pratiquei neste projeto
+- Criação de formulários com HTML
+- Estilização de inputs e botões
+- Responsividade com Media Queries
+- Organização visual de interfaces
+
+---
+
+## Como funciona
+O projeto apresenta uma interface de login onde o usuário pode inserir seus dados.
+
 
